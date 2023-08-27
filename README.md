@@ -1,2 +1,2 @@
-# RoboFriends-react
-https://rchursin.github.io/RoboFriends-react/
+# RoboFriends with React
+- https://rchursin.github.io/robo_friends/
